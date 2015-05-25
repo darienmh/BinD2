@@ -1,7 +1,8 @@
 # BinD2
 
-´´´ php
+``` php
+<?php
 
-var_dump('hola');
+var_dump(die);
 
-´´´
+```
